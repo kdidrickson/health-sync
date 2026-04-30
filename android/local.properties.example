@@ -1,0 +1,11 @@
+# Copy this file to local.properties and fill in your values.
+# local.properties is gitignored and must never be committed.
+
+# Android SDK path — Android Studio sets this automatically
+sdk.dir=/Users/YOUR_USERNAME/Library/Android/sdk
+
+# Webhook target — update with real Vercel URL after deploying the service
+WEBHOOK_URL=https://your-vercel-project.vercel.app/webhook
+
+# Shared secret — must match the WEBHOOK_SECRET env var in Vercel
+WEBHOOK_SECRET=choose_any_random_string_here

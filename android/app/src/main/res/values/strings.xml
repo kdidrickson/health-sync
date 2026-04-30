@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terra Health Sync</string>
+    <string name="title_status_card">Sync Status</string>
+    <string name="label_connection">Health Connect</string>
+    <string name="label_last_sync">Last sync</string>
+    <string name="label_last_result">Last result</string>
+    <string name="label_permissions">Health Connect permissions</string>
+    <string name="btn_sync_now">Sync Now</string>
+    <string name="btn_grant_permissions">Grant Permissions</string>
+    <string name="status_hc_available">Available</string>
+    <string name="status_hc_unavailable">Not installed</string>
+    <string name="status_never">Never</string>
+    <string name="hc_not_installed_title">Health Connect Required</string>
+    <string name="hc_not_installed_message">This app requires Health Connect. Would you like to install it from the Play Store?</string>
+    <string name="btn_install">Install</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
